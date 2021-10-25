@@ -1,3 +1,4 @@
+
 {
     "extension_name": {
         "message": "locale-test Extension",
@@ -8,7 +9,7 @@
         "description": "Description of what the extension does."
     },
     "hello": {
-        "message": "Hello World",
+        "message": "Olá Mundo",
         "description": "example text"
     }
 }
